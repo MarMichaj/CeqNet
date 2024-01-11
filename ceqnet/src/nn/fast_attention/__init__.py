@@ -1,0 +1,1 @@
+from .favor_plus import make_fast_generalized_attention
