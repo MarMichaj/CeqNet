@@ -1,1 +1,0 @@
-(17.03.23) Training procedure like in spookynet-paper
